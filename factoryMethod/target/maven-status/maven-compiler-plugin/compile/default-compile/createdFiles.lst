@@ -1,0 +1,9 @@
+ec\edu\espol\factorymethod\AfiliacionBasica.class
+ec\edu\espol\factorymethod\VIP.class
+ec\edu\espol\factorymethod\AfiliacionPremium.class
+ec\edu\espol\factorymethod\AfiliacionVIP.class
+ec\edu\espol\factorymethod\FactoryMethod.class
+ec\edu\espol\factorymethod\TarjetaDeCredito.class
+ec\edu\espol\factorymethod\Premium.class
+ec\edu\espol\factorymethod\Basica.class
+ec\edu\espol\factorymethod\Afiliaciones.class
